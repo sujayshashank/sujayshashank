@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sujayshashank0470@gmail.com**
 
-- ⚡ Fun fact **Code with passion, debug with patience, and persist with perseverance.**
+- ⚡ **Code with passion, debug with patience, and persist with perseverance.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
