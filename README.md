@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashank-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-rajput" height="30" width="40" /></a>
-<a href="https://fb.com/shashank rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashank rajput" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashank-rajput-9228a8228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-rajput" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100028099804809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashank rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/unknown_shashank00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknown_shashank00" height="30" width="40" /></a>
 <a href="https://twitter.com/shashank_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashank_code" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/blavk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blavk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@blackcoder6355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blavk" height="30" width="40" /></a>
 </p>
 
 
