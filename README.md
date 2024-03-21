@@ -1,5 +1,5 @@
 ![logo](https://github.com/sujayshashank/sujayshashank/blob/main/banner.png.jpg)
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shashank-rajput-9228a8228/" target="_blank"> Prince Kumar </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shashank-rajput-9228a8228/" target="_blank"> Shashank Rajput </a></h1>
 
 <h3 align="center">🚀 I specialize in HTML, CSS, and JavaScript, with expertise in modern frontend frameworks like React.js.</h3>
 
