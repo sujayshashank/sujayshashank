@@ -1,5 +1,5 @@
 ![logo](https://github.com/sujayshashank/sujayshashank/blob/main/banner1.png)
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shashank-rajput-9228a8228/" target="_blank"> Shashank Rajput </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shashank-rajput-9228a8228/" target="_blank"> Black Coder </a></h1>
 
 <h3 align="center">🚀 I specialize in HTML, CSS, and JavaScript, with expertise in modern frontend frameworks like React.js.</h3>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sujayshashank0470@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **Code with passion, debug with patience, and persist with perseverance.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -24,7 +24,6 @@
 <a href="https://www.instagram.com/unknown_shashank00/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/ShashankRajpoot09"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-
 
 
 <h3 align="left">Web Tech Stack :</h3>
